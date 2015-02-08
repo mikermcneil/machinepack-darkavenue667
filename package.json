@@ -21,7 +21,9 @@
   "machinepack": {
     "friendlyName": "Dark Avenue (667)",
     "machineDir": "machines/",
-    "machines": [],
+    "machines": [
+      "get-online-users"
+    ],
     "testsUrl": "https://travis-ci.org/mikermcneil/machinepack-darkavenue667"
   },
   "repository": {
